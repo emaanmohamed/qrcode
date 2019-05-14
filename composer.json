@@ -1,0 +1,7 @@
+{
+    "name": "emahmoud/qrcode",
+    "require": {
+        "endroid/qr-code": "^3.6",
+        "khanamiryan/qrcode-detector-decoder": "^1.0"
+    }
+}
